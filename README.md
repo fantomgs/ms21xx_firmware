@@ -1,3 +1,5 @@
+Originated from [https://github.com/sandbox-pokhara/ms21xx-firmware](https://github.com/sandbox-pokhara/ms21xx-firmware)
+
 # ms21xx-firmware
 
 Tool to generate ms21xx firmware with custom VID, PID, EDID, descriptors and serial number

@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+ms21xx_firmware/__init__.py
+ms21xx_firmware/generate.py
+ms21xx_firmware/py.typed
+ms21xx_firmware.egg-info/PKG-INFO
+ms21xx_firmware.egg-info/SOURCES.txt
+ms21xx_firmware.egg-info/dependency_links.txt
+ms21xx_firmware.egg-info/entry_points.txt
+ms21xx_firmware.egg-info/top_level.txt
+ms21xx_firmware/firmwares/ms2109.bin
+ms21xx_firmware/firmwares/ms2130.bin
